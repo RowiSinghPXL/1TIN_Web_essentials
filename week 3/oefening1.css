@@ -1,0 +1,37 @@
+table, tr, td{
+    border: 1px solid black;
+    font-family: Roboto;
+    border-collapse: collapse;
+}
+
+thead, tfoot {
+    background: #27426d;
+    text-align: center;
+    color: white;
+}
+
+tbody tr:nth-child(2n +1) {
+    background: #4f8cef;
+}
+
+tbody tr:nth-child(2n) {
+    background: #6facff;
+}
+
+tbody {
+    text-align: center;
+    color: white;
+
+}
+
+tbody tr td {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+table {
+    margin: 20px;
+    border: 40px solid #c7ced8;
+
+}
+

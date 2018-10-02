@@ -1,0 +1,79 @@
+
+#geenBullet{
+    list-style-image: url('assest/music_icon.svg');
+
+}
+
+body {
+    font-family: "Roboto", "Adobe Arabic";
+    font-size: 26px;
+
+    background-image: url("assest/back.jpg");
+
+
+}
+
+a:hover {
+    font-size: 46px;
+}
+
+.button {
+
+    color: black;
+    padding: 15px;
+    margin-right: 20px;
+    text-decoration: none;
+    border-style:solid;
+    border-radius: 10px;
+
+}
+
+.festival{
+    border-style: solid;
+    padding-left: 10px;
+    margin-top: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+#pukkelpop {
+    background-color: lightblue;
+}
+
+#rock_werchter {
+    background-color: lightcoral;
+
+}
+
+
+
+header {
+    background-color: darkslategrey;
+    text-align: center;
+
+}
+
+header h1 {
+    margin-top: 0;
+}
+
+footer {
+    background-color: darkslategrey;
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-left: 3px;
+
+}
+
+.right{
+    -moz-column-count: 1;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    column-count: 3;
+    column-gap: 200px;
+
+
+
+

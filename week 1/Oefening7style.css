@@ -1,0 +1,52 @@
+body {
+    background-color: #151c28;
+}
+
+header {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: #ffe14f;
+}
+
+ul {
+    text-align: center;
+
+}
+#head {
+    color: #ffe14f;
+    border-style: none;
+
+
+}
+
+li:first-child:hover{
+    background-color:#151c28;
+    cursor: default;
+}
+
+ul li {
+    border-style: solid;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+    list-style: none;
+    border-radius: 5px;
+    padding: 5px;
+
+
+    border-color: #ffe14f;
+
+
+}
+
+
+li a {
+    display: block;
+
+}
+
+li:hover {
+    background-color:#8daec6;
+    cursor: pointer;
+}
