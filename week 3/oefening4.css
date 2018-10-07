@@ -1,0 +1,23 @@
+table tr td{
+    border: 2px solid black;
+}
+table {
+    border-collapse: collapse;
+    width: 500px;
+    height: 500px;
+}
+
+#groen {
+    background-color: green;
+}
+
+#rood {
+    background-color: red;
+}
+
+#blauw {
+    background-color: blue;
+}
+#geel {
+    background-color: yellow;
+}
